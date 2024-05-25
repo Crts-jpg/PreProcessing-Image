@@ -28,4 +28,4 @@ image_blur = blur_image(image_original)
 cv2.imshow('Original gambar', image_original)
 cv2.imshow('Processed gambar', image_processed)
 cv2.imshow('Blur gambar', image_blur)
-cv2.waitKey(0) #used to hold the window open until we press a key
+cv2.waitKey(0)
